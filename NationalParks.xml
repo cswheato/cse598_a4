@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks>
+    <!-- Ratings are arbitrarily assigned for this assignment and should not be used as an evaluation-->
+    <!-- 1. Little River Canyon National Park-->
+    <NationalPark>
+        <Name>Little River Canyon National Park</Name>
+        <Phone>(256)-845-9605</Phone>
+        <Address 
+        NearestAirport="Flying J Ranch Airport 2AL5">
+            <Number>4322</Number>
+            <Street>Little River Trail #100</Street>
+            <City>Fort Payne</City>
+            <State>AL</State>
+            <Zip>35967</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 2. Great Basin National Park-->
+    <NationalPark
+        Rating="4.7">
+        <Name>Great Basin National Park</Name>
+        <Phone>(775)-234-7331</Phone>
+        <Address>
+            <Number>100</Number>
+            <Street>Great Basin National Park</Street>
+            <City>Baker</City>
+            <State>NV</State>
+            <Zip>89311</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 3. Yosemite National Park-->
+    <NationalPark
+        Rating="4.8">
+        <Name>Yosemite National Park</Name>
+        <Phone>(209)-372-0200</Phone>
+        <Address
+            NearestAirport="Fresno Yosemite International Airport(FAT)">
+            <Number>Hwy 140</Number>
+            <Street>Yosemite National Park</Street>
+            <City>El Portal</City>
+            <State>CA</State>
+            <Zip>95318</Zip>    
+        </Address>
+        <Address
+            NearestAirport="Fresno Yosemite International Airport(FAT)">
+            <Number>Hwy 120</Number>
+            <Street>Yosemite National Park</Street>
+            <City>Lee Vining</City>
+            <State>CA</State>
+            <Zip>93541</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 4. Saguaro National Park-->
+     <NationalPark
+        Rating="3.5">
+        <Name>Saguaro National Park</Name>
+        <Phone>(520)-733-5153</Phone>
+        <Phone>(520)-733-5158</Phone>
+        <Phone>(520) 733-5100</Phone>
+        <Address
+            NearestAirport="Tucson International Airport(TUS)">
+            <Number>3693</Number>
+            <Street>S. Old Spanish Trail</Street>
+            <City>Tucson</City>
+            <State>AZ</State>
+            <Zip>85730</Zip>    
+        </Address>
+        <Address
+            NearestAirport="Tucson International Airport(TUS)">
+            <Number>2700</Number>
+            <Street>N. Kinney Road</Street>
+            <City>Tucson</City>
+            <State>AZ</State>
+            <Zip>85743</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 5. Mount Rainier National Park-->
+     <NationalPark
+        Rating="3.9">
+        <Name>Mount Rainier National Park</Name>
+        <Phone>(360)-569-6575</Phone>
+        <Phone>(360)-569-2211</Phone>
+        <Address
+            NearestAirport="Seattle-Tacoma International Airport (Sea-Tac)">
+            <Number>39000</Number>
+            <Street>State Route 706 E</Street>
+            <City>Ashford</City>
+            <State>WA</State>
+            <Zip>98304</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 6. Olympic National Park-->
+     <NationalPark
+        Rating="3.8">
+        <Name>Olympic National Park</Name>
+        <Phone>(360) 565-3130</Phone>
+        <Phone>(360) 565-3100</Phone>
+        <Phone>(800)-877-8339</Phone>
+        <Address
+            NearestAirport="Seattle-Tacoma International Airport (Sea-Tac)">
+            <Number>600</Number>
+            <Street>E. Park Avenue</Street>
+            <City>Port Angeles</City>
+            <State>WA</State>
+            <Zip>98362</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 7. North Cascades National Park-->
+     <NationalPark
+        Rating="3.7">
+        <Name>North Cascades National Park</Name>
+        <Phone>(360) 854-7200</Phone>
+        <Address
+            NearestAirport="Bellingham International Airport (BLI)">
+            <Number>7280</Number>
+            <Street>Ranger Station Rd.</Street>
+            <City>Marblemount</City>
+            <State>WA</State>
+            <Zip>98267</Zip>    
+        </Address>
+        <Address
+            NearestAirport="Vancouver International Airport (YVR)">
+            <Number>810</Number>
+            <Street>State Route 20</Street>
+            <City>Sedro-Woolley</City>
+            <State>WA</State>
+            <Zip>98284</Zip>
+        </Address>
+    </NationalPark>
+    <!-- 8. Zion National Park-->
+     <NationalPark>
+        <Name>Zion National Park</Name>
+        <Phone>(435)-772-3256</Phone>
+        <Address>
+            <Number>358</Number>
+            <Street>Zion Park Blvd.</Street>
+            <City>Springdale</City>
+            <State>UT</State>
+            <Zip>84767</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 9. Gates of the Arctic National Park-->
+     <NationalPark>
+        <Name>Gates of the Arctic National Park</Name>
+        <Phone>(907)-459-3730</Phone>
+        <Address
+        NearestAirport="Fairbanks International Airport(FAI)"
+        Note="This park spans over 8 million acres and covers many different zip codes with no
+                official address.">
+            <Number>--</Number>
+            <Street>--</Street>
+            <City>--</City>
+            <State>AK</State>
+            <Zip>Varies</Zip>
+        </Address>
+    </NationalPark>
+    <!-- 10. Great Smoky Mountains National Park-->
+     <NationalPark>
+        <Name>Great Smoky Mountains National Park</Name>
+        <Phone>(865)-436-1200</Phone>
+        <Address>
+            <Number>107</Number>
+            <Street>Park Headquarters Rd</Street>
+            <City>Gatlinburg</City>
+            <State>TN</State>
+            <Zip>37738</Zip>    
+        </Address>
+    </NationalPark>
+    <!-- 11. Example Nation Park: Grand Canyon National Park -->
+     <NationalPark
+     Rating = "4.9">
+        <Name>Grand Canyon</Name>
+        <Phone>(928)-638-7496</Phone>
+        <Phone>(888)-297-2757</Phone>
+        <Phone>(866)-499-2574</Phone>
+        <Address
+        NearestAirport = "FlagStaff">
+            <Number>8</Number>
+            <Street>S Entrance Road</Street>
+            <City>Grand Canyon</City>
+            <State>AZ</State>
+            <Zip>86023</Zip>
+        </Address>
+    </NationalPark>
+</NationalParks>
