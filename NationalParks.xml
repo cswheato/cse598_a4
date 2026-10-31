@@ -19,7 +19,8 @@
         Rating="4.7">
         <Name>Great Basin National Park</Name>
         <Phone>(775)-234-7331</Phone>
-        <Address>
+        <Address
+        NearestAirport="Cedar City Regional Airport (CDC)">
             <Number>100</Number>
             <Street>Great Basin National Park</Street>
             <City>Baker</City>
@@ -130,7 +131,8 @@
      <NationalPark>
         <Name>Zion National Park</Name>
         <Phone>(435)-772-3256</Phone>
-        <Address>
+        <Address
+        NearestAirport="St. George Regional Airport (SGU)">
             <Number>358</Number>
             <Street>Zion Park Blvd.</Street>
             <City>Springdale</City>
@@ -157,7 +159,8 @@
      <NationalPark>
         <Name>Great Smoky Mountains National Park</Name>
         <Phone>(865)-436-1200</Phone>
-        <Address>
+        <Address
+        NearestAirport="McGhee Tyson Airport (TYS) ">
             <Number>107</Number>
             <Street>Park Headquarters Rd</Street>
             <City>Gatlinburg</City>
