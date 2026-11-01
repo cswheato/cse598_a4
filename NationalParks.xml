@@ -147,9 +147,7 @@
         <Name>Gates of the Arctic National Park</Name>
         <Phone>(907)-459-3730</Phone>
         <Address
-        NearestAirport="Fairbanks International Airport(FAI)"
-        Note="This park spans over 8 million acres and covers many different zip codes with no
-                official address.">
+        NearestAirport="Fairbanks International Airport(FAI)">
             <Number>--</Number>
             <Street>--</Street>
             <City>--</City>
