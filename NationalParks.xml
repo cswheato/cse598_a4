@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks>
     <!-- Ratings are arbitrarily assigned for this assignment and should not be used as an evaluation-->
+    <!-- 11. Example Nation Park: Grand Canyon National Park -->
+     <NationalPark
+     Rating = "4.9">
+        <Name>Grand Canyon</Name>
+        <Phone>(928)-638-7496</Phone>
+        <Phone>(888)-297-2757</Phone>
+        <Phone>(866)-499-2574</Phone>
+        <Address
+        NearestAirport = "FlagStaff">
+            <Number>8</Number>
+            <Street>S Entrance Road</Street>
+            <City>Grand Canyon</City>
+            <State>AZ</State>
+            <Zip>86023</Zip>
+        </Address>
+    </NationalPark>
     <!-- 1. Little River Canyon National Park-->
     <NationalPark>
         <Name>Little River Canyon National Park</Name>
@@ -39,7 +55,7 @@
             <Street>Yosemite National Park</Street>
             <City>El Portal</City>
             <State>CA</State>
-            <Zip>95318</Zip>    
+            <Zip>95318</Zip>
         </Address>
         <!--
         <Address
@@ -60,7 +76,7 @@
         <Phone>(520)-733-5158</Phone>
         <Phone>(520) 733-5100</Phone>
         <Address
-            NearestAirport="Tucson International Airport(TUS)">
+            NearestAirport="Tucson International Airport (TUS)">
             <Number>3693</Number>
             <Street>S. Old Spanish Trail</Street>
             <City>Tucson</City>
@@ -168,20 +184,5 @@
             <Zip>37738</Zip>    
         </Address>
     </NationalPark>
-    <!-- 11. Example Nation Park: Grand Canyon National Park -->
-     <NationalPark
-     Rating = "4.9">
-        <Name>Grand Canyon</Name>
-        <Phone>(928)-638-7496</Phone>
-        <Phone>(888)-297-2757</Phone>
-        <Phone>(866)-499-2574</Phone>
-        <Address
-        NearestAirport = "FlagStaff">
-            <Number>8</Number>
-            <Street>S Entrance Road</Street>
-            <City>Grand Canyon</City>
-            <State>AZ</State>
-            <Zip>86023</Zip>
-        </Address>
-    </NationalPark>
+
 </NationalParks>
