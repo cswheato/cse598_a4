@@ -57,15 +57,6 @@
             <State>CA</State>
             <Zip>95318</Zip>
         </Address>
-        
-        <Address
-            NearestAirport="Fresno Yosemite International Airport(FAT)">
-            <Number>Hwy 120</Number>
-            <Street>Yosemite National Park</Street>
-            <City>Lee Vining</City>
-            <State>CA</State>
-            <Zip>93541</Zip>    
-        </Address>
        
     </NationalPark>
     <!-- 4. Saguaro National Park-->
@@ -82,14 +73,6 @@
             <City>Tucson</City>
             <State>AZ</State>
             <Zip>85730</Zip>    
-        </Address>
-        <Address
-            NearestAirport="Tucson International Airport(TUS)">
-            <Number>2700</Number>
-            <Street>N. Kinney Road</Street>
-            <City>Tucson</City>
-            <State>AZ</State>
-            <Zip>85743</Zip>    
         </Address>
     </NationalPark>
     <!-- 5. Mount Rainier National Park-->
@@ -135,14 +118,6 @@
             <City>Marblemount</City>
             <State>WA</State>
             <Zip>98267</Zip>    
-        </Address>
-        <Address
-            NearestAirport="Vancouver International Airport (YVR)">
-            <Number>810</Number>
-            <Street>State Route 20</Street>
-            <City>Sedro-Woolley</City>
-            <State>WA</State>
-            <Zip>98284</Zip>
         </Address>
     </NationalPark>
     <!-- 8. Zion National Park-->

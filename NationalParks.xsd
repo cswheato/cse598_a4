@@ -8,7 +8,7 @@
                         <xsd:sequence>
                             <xsd:element name = "Name" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                             <xsd:element name = "Phone" minOccurs="1" maxOccurs="unbounded" type="xsd:string" />
-                            <xsd:element name = "Address" minOccurs="1" maxOccurs="2">
+                            <xsd:element name = "Address" minOccurs="1" maxOccurs="1">
                                 <xsd:complexType>
                                     <xsd:sequence>
                                         <xsd:element name = "Number" minOccurs="1" maxOccurs="1" type="xsd:string"/>
@@ -17,7 +17,7 @@
                                         <xsd:element name = "State" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                                         <xsd:element name = "Zip" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                                     </xsd:sequence>
-                                    <xsd:attribute name = "NearestAirport" type = "xsd:string" use = "required" />
+                                    <xsd:attribute name = "NearestAirport" type = "xsd:string" use = "required"/>
                                 </xsd:complexType> 
                             </xsd:element>
                         </xsd:sequence>
