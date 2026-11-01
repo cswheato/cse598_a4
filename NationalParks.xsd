@@ -17,7 +17,6 @@
                                         <xsd:element name = "State" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                                         <xsd:element name = "Zip" minOccurs="1" maxOccurs="1" type="xsd:string"/>
                                     </xsd:sequence>
-                                    <xsd:attribute name = "Note" type = "xsd:string" use = "optional" />
                                     <xsd:attribute name = "NearestAirport" type = "xsd:string" use = "optional" />
                                 </xsd:complexType>
                             </xsd:element>
