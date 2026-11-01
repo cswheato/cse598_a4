@@ -148,11 +148,11 @@
         <Phone>(907)-459-3730</Phone>
         <Address
         NearestAirport="Fairbanks International Airport(FAI)">
-            <Number>--</Number>
-            <Street>--</Street>
-            <City>--</City>
+            <Number>00</Number>
+            <Street>None</Street>
+            <City>Anchorage</City>
             <State>AK</State>
-            <Zip>Varies</Zip>
+            <Zip>00000</Zip>
         </Address>
     </NationalPark>
     <!-- 10. Great Smoky Mountains National Park-->
